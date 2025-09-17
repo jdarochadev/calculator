@@ -9,15 +9,15 @@ public class Calculator {
         System.out.println("Simple Java Calculator");
 
         
-        System.out.print("Enter the first number: ");
+        System.out.print("Digite o primeiro numero: ");
         num1 = scanner.nextDouble();
 
         
-        System.out.print("Enter an operator (+, -, *, /): ");
+        System.out.print("Digite o operador (+, -, *, /): ");
         operator = scanner.next().charAt(0);
 
         
-        System.out.print("Enter the second number: ");
+        System.out.print("Digite o segundo numero: ");
         num2 = scanner.nextDouble();
 
        

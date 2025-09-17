@@ -40,11 +40,11 @@ public class Calculator {
                     result = num1 / num2;
                     System.out.println("Result: " + result);
                 } else {
-                    System.out.println("Error: Division by zero is not allowed.");
+                    System.out.println("Error: Divisao por Zero nao e permitido.");
                 }
                 break;
             default:
-                System.out.println("Error: Invalid operator entered.");
+                System.out.println("Error: Operador invalido inserido.");
                 break;
         }
 
